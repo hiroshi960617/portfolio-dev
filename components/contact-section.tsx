@@ -87,8 +87,8 @@ export function ContactSection() {
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/constellation-galaxy",
-      href: "https://github.com/constellation-galaxy",
+      value: "github.com",
+      href: "https://github.com",
       color: "from-gray-500 to-gray-700",
     },
   ]

@@ -147,7 +147,7 @@ export default function ResumePage() {
                       </div>
                       <div className="flex items-center gap-2">
                         <Github className="h-4 w-4" />
-                        <span>github.com/constellation-galaxy</span>
+                        <span>github.com</span>
                       </div>
                       <div className="flex items-center gap-2">
                         <MapPin className="h-4 w-4" />

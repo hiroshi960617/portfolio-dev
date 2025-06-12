@@ -35,7 +35,7 @@ export function Footer() {
             viewport={{ once: true }}
           >
             {[
-              { icon: Github, href: "https://github.com/constellation-galaxy", label: "GitHub" },
+              { icon: Github, href: "https://github.com", label: "GitHub" },
               { icon: Mail, href: "mailto:fgenji@outlook.com", label: "Email" },
             ].map((social, index) => (
               <motion.div
