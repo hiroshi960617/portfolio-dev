@@ -22,7 +22,7 @@ export default function ResumePage() {
       title: "Senior Blockchain Developer",
       company: "CryptoTech Solutions",
       period: "2022 - Present",
-      location: "Remote",
+      location: "Tokyo, Japan",
       achievements: [
         "Led development of DeFi protocol handling $50M+ in total value locked",
         "Built and deployed 15+ smart contracts with zero security vulnerabilities",
@@ -70,37 +70,37 @@ export default function ResumePage() {
       name: "DeFi Exchange Platform",
       description: "Decentralized exchange with liquidity pools and yield farming",
       tech: ["Solidity", "React", "Web3.js"],
-      link: "https://github.com/alexchen-dev/defi-exchange-platform",
+      link: "https://github.com",
     },
     {
       name: "NFT Marketplace",
       description: "Full-featured marketplace for creating and trading NFTs",
       tech: ["Ethereum", "IPFS", "Next.js"],
-      link: "https://github.com/alexchen-dev/nft-marketplace",
+      link: "https://github.com",
     },
     {
       name: "DAO Governance Platform",
       description: "Decentralized voting and proposal management system",
       tech: ["Smart Contracts", "TypeScript", "GraphQL"],
-      link: "https://github.com/alexchen-dev/dao-governance-platform",
+      link: "https://github.com",
     },
     {
       name: "Web3 Social Network",
       description: "Decentralized platform for content sharing and token-gated communities",
       tech: ["web3", "social", "frontend"],
-      link: "https://github.com/alexchen-dev/dao-governance-platform",
+      link: "https://github.com",
     },
     {
       name: "Crypto Portfolio Tracker",
       description: "Dashboard for tracking crypto investments and DeFi positions in real time",
       tech: ["frontend", "api", "dashboard"],
-      link: "https://github.com/alexchen-dev/dao-governance-platform",
+      link: "https://github.com",
     },
     { 
       name: "Smart Contract Audit Tool",
       description: "Automated scanner for detecting smart contract vulnerabilities",
       tech: ["blockchain", "security", "tool"],
-      link: "https://github.com/alexchen-dev/dao-governance-platform",
+      link: "https://github.com",
     },
     
   ]
@@ -143,11 +143,11 @@ export default function ResumePage() {
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm text-white/70">
                       <div className="flex items-center gap-2">
                         <Mail className="h-4 w-4" />
-                        <span>fgenji@outlook.com</span>
+                        <span>meteorite0620.gmail.com</span>
                       </div>
                       <div className="flex items-center gap-2">
                         <Github className="h-4 w-4" />
-                        <span>github.com</span>
+                        <span>github.com/constellation-galaxy</span>
                       </div>
                       <div className="flex items-center gap-2">
                         <MapPin className="h-4 w-4" />

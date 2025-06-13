@@ -35,8 +35,8 @@ export function Footer() {
             viewport={{ once: true }}
           >
             {[
-              { icon: Github, href: "https://github.com", label: "GitHub" },
-              { icon: Mail, href: "mailto:fgenji@outlook.com", label: "Email" },
+              { icon: Github, href: "https://github.com/constellation-galaxy", label: "GitHub" },
+              { icon: Mail, href: "mailto:meteorite0620@gmail.com", label: "Gmail" },
             ].map((social, index) => (
               <motion.div
                 key={social.label}

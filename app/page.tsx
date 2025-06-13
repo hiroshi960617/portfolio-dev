@@ -57,7 +57,7 @@ export default function Home() {
             </button>
           </nav>
           <div className="flex items-center gap-4">
-            <Link href="https://github.com" target="_blank" rel="noopener noreferrer">
+            <Link href="https://github.com/constellation-galaxy" target="_blank" rel="noopener noreferrer">
               <Button variant="ghost" size="icon" className="rounded-full text-white/70 hover:text-white">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>

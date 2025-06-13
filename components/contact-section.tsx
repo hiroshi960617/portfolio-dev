@@ -79,16 +79,16 @@ export function ContactSection() {
   const contactInfo = [
     {
       icon: Mail,
-      label: "Email",
-      value: "fgenji@outlook.com",
-      href: "mailto:fgenji@outlook.com",
+      label: "Gmail",
+      value: "meteorite0620@gmail.com",
+      href: "mailto:meteorite0620@gmail.com",
       color: "from-cyan-500 to-blue-500",
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com",
-      href: "https://github.com",
+      value: "github.com/constellation-galaxy",
+      href: "https://github.com/constellation-galaxy",
       color: "from-gray-500 to-gray-700",
     },
   ]
